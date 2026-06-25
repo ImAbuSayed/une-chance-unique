@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-chance-unique/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Une Chance Unique](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chance-unique/) |
+| **Get License** | [Official Music Licensing for Une Chance Unique](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chance-unique/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la pénombre, ton regard m'ensorcelle
+> Une chance unique, la nuit nous étincelle
+> Ton corps contre le mien, un désir sans merci
+> Laisse-moi t'emmener loin, sous le ciel de Paris
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
