@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/une-chance-unique/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Une Chance Unique](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chance-unique/) |
+| **Get License** | [Commercial Licensing for Une Chance Unique](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/une-chance-unique/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5054e69156b1a866eb1fd7a4ebebce0f671fcd421f8ac0215987f9cc14e31c6e` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

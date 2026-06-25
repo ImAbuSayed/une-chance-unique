@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Une Chance Unique
+
+This log tracks the cryptographic history and versioning for the song **Une Chance Unique** (une-chance-unique).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:59:30.822174 | `v1` | `5054e69156b1a866eb1fd7a4ebebce0f671fcd421f8ac0215987f9cc14e31c6e` | `ced2925ee8951f9474b0682b7c10292a9ec6b6d5e9873e9962e3d69307096650` | `2026-06-26_une-chance-unique-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
